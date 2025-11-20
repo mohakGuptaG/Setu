@@ -20,4 +20,4 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(morgan('dev'))
 
 
-export {app};
+export {app};// Pipeline configuration updated
